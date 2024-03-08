@@ -1,4 +1,4 @@
-import process from "node:node:process";
+import process from "node:process";
 import { Logger } from "npm:@graphile/logger@0.2.0";
 import { PluginHook } from "npm:graphile-config@0.0.1-beta.4";
 import type { PoolClient } from "npm:pg@8.11.3";

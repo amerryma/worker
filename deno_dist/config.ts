@@ -1,4 +1,4 @@
-import process from "node:node:process";
+import process from "node:process";
 import { cosmiconfigSync } from "npm:cosmiconfig@9.0.0";
 
 import { MINUTE, SECOND } from "./cronConstants.ts";

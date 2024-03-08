@@ -1,4 +1,4 @@
-import process from "node:node:process";
+import process from "node:process";
 import * as assert from "node:assert";
 import { randomBytes } from "node:crypto";
 

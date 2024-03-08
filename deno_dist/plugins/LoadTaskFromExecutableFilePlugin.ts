@@ -1,4 +1,4 @@
-import process from "node:node:process";
+import process from "node:process";
 import { spawn } from "node:child_process";
 import { constants } from "node:fs";
 import { GraphileConfig } from "npm:graphile-config@0.0.1-beta.4";

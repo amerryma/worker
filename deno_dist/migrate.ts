@@ -1,4 +1,4 @@
-import process from "node:node:process";
+import process from "node:process";
 import { PoolClient } from "npm:pg@8.11.3";
 
 import { migrations } from "./generated/sql.ts";

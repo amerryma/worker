@@ -1,4 +1,4 @@
-import process from "node:node:process";
+import process from "node:process";
 import { randomBytes } from "node:crypto";
 import { EventEmitter } from "node:events";
 import { Notification, Pool, PoolClient } from "npm:pg@8.11.3";

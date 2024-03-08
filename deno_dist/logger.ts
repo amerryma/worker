@@ -1,4 +1,4 @@
-import process from "node:node:process";
+import process from "node:process";
 // For backwards compatibility
 if (process.env.GRAPHILE_WORKER_DEBUG) {
   process.env.GRAPHILE_LOGGER_DEBUG = process.env.GRAPHILE_WORKER_DEBUG;

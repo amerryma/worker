@@ -1,4 +1,4 @@
-import process from "node:node:process";
+import process from "node:process";
 import * as assert from "node:assert";
 import { EventEmitter } from "node:events";
 import { applyHooks, AsyncHooks, resolvePresets } from "npm:graphile-config@0.0.1-beta.4";

@@ -1,4 +1,4 @@
-import process from "node:node:process";
+import process from "process";
 #!/usr/bin/env node
 import { loadConfig } from "npm:graphile-config@0.0.1-beta.4/load";
 import * as yargs from "npm:yargs@17.7.2";

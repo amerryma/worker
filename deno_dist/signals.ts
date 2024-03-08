@@ -1,4 +1,4 @@
-import process from "node:node:process";
+import process from "node:process";
 export type Signal =
   | "SIGUSR2"
   | "SIGINT"

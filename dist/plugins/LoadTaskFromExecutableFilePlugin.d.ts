@@ -1,2 +1,0 @@
-import { GraphileConfig } from "graphile-config";
-export declare const LoadTaskFromExecutableFilePlugin: GraphileConfig.Plugin;
